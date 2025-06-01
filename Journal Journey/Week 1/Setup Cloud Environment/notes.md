@@ -8,7 +8,9 @@ Preview of the VPC showed as:
 ![image](https://github.com/user-attachments/assets/04308e70-b1e8-4da5-87d9-9bf480b83d01)
 
 Post Create shows an additional entry under 'route tables'  that starts with rtb-
+This is a 'Main route table' which is not in use for this bootcamp.
 ![image](https://github.com/user-attachments/assets/105eb27e-6ae4-45f5-8584-3fcbe1461069)
 
-Found official documentation and 'rtb' is referenced: 
-https://docs.aws.amazon.com/vpc/latest/userguide/create-vpc.html
+Found official documentation:
+**Main route table—The route table that automatically comes with your VPC. It controls the routing for all subnets that are not explicitly associated with any other route table**
+ https://docs.aws.amazon.com/vpc/latest/userguide/RouteTables.html
