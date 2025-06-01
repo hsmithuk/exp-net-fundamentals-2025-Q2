@@ -16,7 +16,7 @@ Aim of inclusion of short video of the various parts of the process.
 # Journal
 ...Aim to document the steps taken, including the challenges.
 
-- [Setup Cloud Enviornment]()
+- [Setup Cloud Environment]()
 - [Lesson 2]()
 - [Lesson 3]()
 - [Lesson 4]()
