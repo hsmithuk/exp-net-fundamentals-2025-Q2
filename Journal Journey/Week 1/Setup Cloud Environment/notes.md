@@ -80,8 +80,25 @@ Here is the server.    Public and private IP shows
  2: Ubuntu 
 Similar setup to WinServer.    Except this gets a specific name.     it uses  t2-medium.
 
-Key pair is ppk 
+Key pair is ppk from Windows machine when using Putty.
 ![image](https://github.com/user-attachments/assets/ab86829b-8b08-4f7e-85e6-71cfcdba7853)
+
+However after some time I found for Mac a pem file is enough.   As long as permissions chmod is run first.
+![image](https://github.com/user-attachments/assets/cf476819-2651-4b37-b019-9f1b92362b10)
+
+
+Found later on that I had only connected one NIC to my Ubuntu, which is why my SSH connection keot failing:
+![image](https://github.com/user-attachments/assets/f3acc769-33a9-456f-a3e3-adfca1f7b8a1)
+
+AKA,, 
+![image](https://github.com/user-attachments/assets/91f80aec-196d-4c79-9e45-5c74bc70c8f6)
+
+
+
+
+
+![image](https://github.com/user-attachments/assets/749d7980-6154-48d8-91bf-c9f18c69eecc)
+
 
  ![image](https://github.com/user-attachments/assets/656d2cdf-0077-4c35-9ad5-9bcd1ad01320)
 
