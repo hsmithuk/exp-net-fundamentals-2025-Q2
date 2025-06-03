@@ -35,6 +35,10 @@ As have control to better define requirements.
 ![image](https://github.com/user-attachments/assets/5d2030fe-d5e4-45e2-b1bf-c2bded84ae5d)
 Here the public IP has been removed and while the private-ip is not public facing, I have still hidden that .
 
+**Also include a rule for SSH , for when Linux machines need to connect**
+![image](https://github.com/user-attachments/assets/687d6eb2-8571-420f-ada5-a7e97bd0e4d2)
+
+
 Created a network interface
 ![image](https://github.com/user-attachments/assets/1bfced4d-ed35-4ff9-81e2-4d73b54ce391)
 Selected the 'Private' one.     **Also make sure to link to Security group, which in this case 'allow login'
@@ -74,6 +78,13 @@ Here is the server.    Public and private IP shows
 
 
  2: Ubuntu 
+Similar setup to WinServer.    Except this gets a specific name.     it uses  t2-medium.
+
+Key pair is ppk 
+![image](https://github.com/user-attachments/assets/ab86829b-8b08-4f7e-85e6-71cfcdba7853)
+
+ ![image](https://github.com/user-attachments/assets/656d2cdf-0077-4c35-9ad5-9bcd1ad01320)
+
  3: RH
  
 
